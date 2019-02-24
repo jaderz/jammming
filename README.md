@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Synopsis
 
-A React web application website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
+A React.js web application website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
 
 ## Installation
 
