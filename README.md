@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-<strong>The redirectURI in /util/Spotify.js is set to: http://alana-is-jammming.surge.sh/ once someone makes a request to the Spotify API, you will have to change the redirectURI to http://localhost:3000 to run it locally.</strong>
+<strong>The redirectURI in /util/Spotify.js is set to: http://alana-is-jammming.surge.sh/ once someone makes a request to the Spotify API. You will have to change the redirectURI to http://localhost:3000 to run it locally.</strong>
 
 ### `npm test`
 
