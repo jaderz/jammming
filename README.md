@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-The RedirectURL is set to: http://alana-is-jammming.surge.sh/ you will have to change it to http://localhost:3000 to run it locally.
+The redirectURI in /util/Spotify.js is set to: http://alana-is-jammming.surge.sh/ you will have to change it to http://localhost:3000 to run it locally.
 
 ### `npm test`
 
