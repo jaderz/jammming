@@ -45,4 +45,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## API Reference
 
-(https://developer.spotify.com/documentation/web-api/)
+https://developer.spotify.com/documentation/web-api/
